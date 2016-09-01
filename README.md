@@ -30,7 +30,7 @@ An example of how to use this role in your own playbooks
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
